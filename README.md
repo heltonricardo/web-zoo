@@ -1,4 +1,4 @@
-## Contribuidores
+## Contribuidores 🐵
  
 <table>
   <tr>
